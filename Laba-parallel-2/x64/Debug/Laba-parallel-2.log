@@ -1,0 +1,3 @@
+﻿  laba-2.cpp
+C:\Users\Marishka\Desktop\code\Mironuk\Laba-parallel\Laba-parallel-2\laba-2.cpp(91,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Laba-parallel-2.vcxproj -> C:\Users\Marishka\Desktop\code\Mironuk\Laba-parallel\x64\Debug\Laba-parallel-2.exe
